@@ -35,7 +35,7 @@ const NetflixSeries = () => {
    //       </div>
    //       <h2>Name: {name}</h2>
    //       <h3>Rating:{5+3.2}</h3>
-   //       <p>
+   //       <p> 
    //          Summary: {summary}
    //       </p>
    //       <p>Genre:{returnGenre()}</p>
